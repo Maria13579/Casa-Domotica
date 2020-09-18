@@ -23,76 +23,76 @@ namespace Casa_Domotica
 
                 if (opciones == 1)
                 {
-                    app.Enviardato('q');
+                    app.Enviardato("q");
                 }
                 if (opciones == 2)
                 {
-                    app.Enviardato('w');
+                    app.Enviardato("w");
                 }
                 if (opciones == 3)
                 {
-                    app.Enviardato('e');
+                    app.Enviardato("e");
                 }
                 if (opciones == 4)
                 {
-                    app.Enviardato('r');
+                    app.Enviardato("r");
                 }
                 if (opciones == 5)
                 {
-                    app.Enviardato('t');
+                    app.Enviardato("t");
                 }
                 if (opciones == 6)
                 {
-                    app.Enviardato('y');
+                    app.Enviardato("y");
                 }
                 if (opciones == 7)
                 {
-                    app.Enviardato('u');
+                    app.Enviardato("u");
                 }
                 if (opciones == 8)
                 {
-                    app.Enviardato('0');
-                    app.Enviardato('5');
+                    app.Enviardato("0");
+                    app.Enviardato("5");
                 }
                 if (opciones == 9)
                 {
-                    app.Enviardato('1');
-                    app.Enviardato('6');
+                    app.Enviardato("1");
+                    app.Enviardato("6");
                 }
                 if (opciones == 11)
                 {
-                    app.Enviardato('2');
-                    app.Enviardato('7');
+                    app.Enviardato("2");
+                    app.Enviardato("7");
                 }
                 if (opciones == 12)
                 {
-                    app.Enviardato('3');
-                    app.Enviardato('8');
+                    app.Enviardato("3");
+                    app.Enviardato("8");
                 }
                 if (opciones == 13)
                 {
-                    app.Enviardato('4');
-                    app.Enviardato('9');
+                    app.Enviardato("4");
+                    app.Enviardato("9");
                 }
                 if (opciones == 14)
                 {
-                    app.Enviardato('i');
+                    app.Enviardato("i");
                 }
                 if (opciones == 15)
                 {
-                    app.Enviardato('o');
+                    app.Enviardato("o");
                 }
                 if (opciones == 16)
                 {
-                    app.Enviardato('p');
+                    app.Enviardato("p");
                 }
                 if (opciones == 17)
                 {
-                    app.Enviardato('a');
+                    app.Enviardato("a");
                 }
                 if (opciones == 18)
                 {
-                    app.Enviardato('s');
+                    app.Enviardato("s");
                 }
             }
         }

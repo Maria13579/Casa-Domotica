@@ -40,6 +40,8 @@ namespace Casa_Domotica
             catch
             {
                 Console.WriteLine("Ingrese valores numericos...");
+                op = int.Parse(Console.ReadLine());
+
             }
 
             return op;

@@ -11,10 +11,10 @@ namespace Casa_Domotica
     {
         private SerialPort Arduino = new SerialPort("COM9", 9600);
 
-        public void Enviardato(char d)
+        public void Enviardato(string d)
         {
             Arduino.Open();
-            Arduino.Write("d");
+            Arduino.Write(d);
             Arduino.Close();
         }
     }
