@@ -20,7 +20,7 @@ namespace Casa_Domotica
             while (opciones != 18)
             {
                 opciones = m.Listamenu();
-
+                Console.Clear();
                 if (opciones == 1)
                 {
                     app.Enviardato("q");
