@@ -17,7 +17,7 @@ namespace Casa_Domotica
         {
 
             int opciones = 0;
-            while (opciones != 19)
+            while (opciones != 18)
             {
                 opciones = m.Listamenu();
 
@@ -59,38 +59,38 @@ namespace Casa_Domotica
                     app.Enviardato("1");
                     app.Enviardato("6");
                 }
-                if (opciones == 11)
+                if (opciones == 10)
                 {
                     app.Enviardato("2");
                     app.Enviardato("7");
                 }
-                if (opciones == 12)
+                if (opciones == 11)
                 {
                     app.Enviardato("3");
                     app.Enviardato("8");
                 }
-                if (opciones == 13)
+                if (opciones == 12)
                 {
                     app.Enviardato("4");
                     app.Enviardato("9");
                 }
-                if (opciones == 14)
+                if (opciones == 13)
                 {
                     app.Enviardato("i");
                 }
-                if (opciones == 15)
+                if (opciones == 14)
                 {
                     app.Enviardato("o");
                 }
-                if (opciones == 16)
+                if (opciones == 15)
                 {
                     app.Enviardato("p");
                 }
-                if (opciones == 17)
+                if (opciones == 16)
                 {
                     app.Enviardato("a");
                 }
-                if (opciones == 18)
+                if (opciones == 17)
                 {
                     app.Enviardato("s");
                 }
